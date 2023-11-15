@@ -5,12 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshp16&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshp16" /> </p>
 
-- 🔭 I’m currently working on *PSA*
-
-- 🌱 I’m currently learning *Data structure and algorithm*
-
-- 💬 Ask me about *Java, Spring Boot*
-
 - 📫 How to reach me *yogesh010.p@gmail.com*
 
 - ⚡ Hobbies *Portrait Drawings*
