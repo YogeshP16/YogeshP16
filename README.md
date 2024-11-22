@@ -7,7 +7,7 @@
 
 - 📫 How to reach me *yogesh010.p@gmail.com*
 
-- ⚡ Hobbies *Portrait Drawings, Coding, Anime*
+- ⚡ Hobbies *Portrait Drawings, Anime*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
