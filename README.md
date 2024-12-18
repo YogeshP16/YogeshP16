@@ -51,9 +51,7 @@
 ---
 
 ### 📈 **GitHub Stats:**
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yogeshp16&show_icons=true&locale=en&layout=compact" alt="yogeshp16" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshp16&" alt="yogeshp16" />
