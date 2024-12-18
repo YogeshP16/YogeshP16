@@ -20,7 +20,6 @@
 ### 🔥 **Connect with me:**
 <p align="left">
   <a href="https://www.linkedin.com/in/yogesh-prabhakaran-ba1635229/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/></a>
-  <a href="https://github.com/yogeshp16" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white" alt="GitHub" height="30"/></a>
   <a href="https://www.leetcode.com/yogesh166" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" height="30"/></a>
   <a href="https://auth.geeksforgeeks.org/user/yogeshn5ac" target="_blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-5F3F29?style=flat&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" height="30"/></a>
 </p>
