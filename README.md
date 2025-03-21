@@ -10,11 +10,10 @@
   <img src="https://komarev.com/ghpvc/?username=yogeshp16&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshp16" />
 </p>
 
-- 💻 Role: Software Engineer at TCS – Specializing in backend service development.
+- 💻 Role: Software Engineer – Specializing in backend service development.
 - 🎓 Education: Bachelor’s degree from Anna University.
 - 🛠️ Skills: Java, Spring Boot, Microservices, GCP, SQL/NoSQL, Docker, Kubernetes, CI/CD, Data Structures & Algorithms.
 - 🚀 Focus Areas: System Design, Cloud Architecture, Distributed Systems, Performance Optimization.
-- ✨ Interests: Portrait Drawing & Anime.
 - 📧 Contact: yogeshprabhaa@gmail.com.
 
 ---
